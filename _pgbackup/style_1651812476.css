@@ -1,0 +1,39 @@
+.nav-bar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+article {
+    padding-right: 10px;
+}
+
+body {
+    background-color: #151515;
+    color: gray;
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=67767);
+}
+
+#fuckgentry {
+    background-color: #151515;
+}
+
+p,
+h1,
+h4 {
+    color: gray;
+}
+
+a {
+    color: #cfcece;
+}
+
+a:hover {
+    color: #151515;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
